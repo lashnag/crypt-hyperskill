@@ -1,0 +1,1 @@
+Реализация тестового задания шифрования https://hyperskill.org/curriculum
